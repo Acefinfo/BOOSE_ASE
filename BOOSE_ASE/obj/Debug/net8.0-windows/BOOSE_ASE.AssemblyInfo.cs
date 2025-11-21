@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BOOSE_ASE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd48a385e717666048b6ec67e0a42f5bc16442f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BOOSE_ASE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BOOSE_ASE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
